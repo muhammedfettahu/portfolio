@@ -694,7 +694,8 @@ img {
 }
 
 .project__img {
-  width: 232px;
+  width: 330px;
+  height: 300px;
   justify-self: center;
 }
 /*==================== TESTIMONIAL ====================*/
